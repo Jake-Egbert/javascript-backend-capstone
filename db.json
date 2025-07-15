@@ -1,0 +1,9 @@
+{
+  "users": [
+    { "id": 1, "firstName": "Rachelle" },
+    { "id": 2, "firstName": "Heydar" },
+    { "id": 3, "firstName": "Lio" },
+    { "id": 4, "firstName": "Stephanie" },
+    { "id": 5, "firstName": "Kai" }
+  ]
+}
