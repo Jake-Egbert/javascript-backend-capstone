@@ -1,9 +1,9 @@
 {
   "users": [
-    { "id": 1, "firstName": "Rachelle" },
-    { "id": 2, "firstName": "Heydar" },
-    { "id": 3, "firstName": "Lio" },
-    { "id": 4, "firstName": "Stephanie" },
-    { "id": 5, "firstName": "Kai" }
+    { "id": 1, "first_name": "Asia", "last_name": "Haws" },
+    { "id": 2, "first_name": "KaRanda", "last_name": "Krompel" },
+    { "id": 3, "first_name": "Seth", "last_name": "Simmons" },
+    { "id": 4, "first_name": "Seth", "last_name": "Gartz" },
+    { "id": 5, "first_name": "Jake", "last_name": "Egbert" }
   ]
 }
